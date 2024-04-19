@@ -9113,7 +9113,7 @@ button.bg-dark:focus {
 }
 
 .text-center {
-  text-align: center !important;
+  text-align: left !important;
 }
 
 @media (min-width: 576px) {
@@ -9124,7 +9124,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-sm-center {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 
@@ -9136,7 +9136,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-md-center {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 
@@ -9148,7 +9148,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-lg-center {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 
@@ -9160,7 +9160,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-xl-center {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 
