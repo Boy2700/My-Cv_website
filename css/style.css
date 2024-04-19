@@ -9124,7 +9124,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-sm-center {
-    text-align: left !important;
+    text-align: center !important;
   }
 }
 
@@ -9148,7 +9148,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-lg-center {
-    text-align: left !important;
+    text-align: center !important;
   }
 }
 
@@ -9160,7 +9160,7 @@ button.bg-dark:focus {
     text-align: right !important;
   }
   .text-xl-center {
-    text-align: left !important;
+    text-align: center !important;
   }
 }
 
