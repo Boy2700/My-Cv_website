@@ -10050,3 +10050,7 @@
         .text-center {
             text-align: center;
         }
+        
+        * {
+            justify-content: end;
+        }
