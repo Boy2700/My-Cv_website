@@ -10051,11 +10051,11 @@
             text-align: center;
         }
         
-        * {
+        *p {
             justify-content: end;
         }
         
-        * {
+        *p {
             font-size: 14px;
             /* Adjust the value as needed */
         }
