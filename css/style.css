@@ -10051,8 +10051,7 @@
             text-align: center;
         }
         
-        *p,
-        div {
+        *p {
             justify-content: end;
         }
         
