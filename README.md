@@ -17,7 +17,7 @@ https://boy2700.github.io/My-Cv_website/
    ├── js/
    │   ├── main.js
    ├── img/
-   │   ├── ynw.jpg
+   │   ├── yusuf-hero
    │   ├── t1.jpg
    │   ├── t2.jpg
    │   ├── t4.jpg
